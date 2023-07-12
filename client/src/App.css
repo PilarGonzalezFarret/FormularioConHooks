@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.formGroup {
+  background-color: rgb(239, 239, 239);
+  border: gray solid 1px;
+  border-radius: 5px;
+  padding: 1rem;
+  width: 80%;
+  margin: 1rem;
+}
+
+  input {
+    border: grey solid 1px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+/* No consigo que el formulario quede al centro de la pantalla */
+form {
+
+}
+
