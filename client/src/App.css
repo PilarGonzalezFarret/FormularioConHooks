@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: auto 0;
 }
 
 .formGroup {
@@ -8,7 +9,8 @@
   border-radius: 5px;
   padding: 1rem;
   width: 80%;
-  margin: 1rem;
+  margin: 1rem auto;
+
 }
 
   input {
@@ -17,9 +19,4 @@
     padding: 10px;
 }
 
-
-/* No consigo que el formulario quede al centro de la pantalla */
-form {
-
-}
 
